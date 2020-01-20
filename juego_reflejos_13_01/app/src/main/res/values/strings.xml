@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">juego_reflejos_13_01</string>
+    <string name="btnOpciones">Opciones</string>
+    <string name="txtJugador">Nombre</string>
+    <string name="rbFacil">Fácil</string>
+    <string name="rbMedio">Medio</string>
+    <string name="rbDificil">Difícil</string>
+    <string name="titOpciones">Opciones del juego</string>
+    <string name="Aceptar">Aceptar</string>
+    <string name="Cancelar">Cancelar</string>
+    <string name="btnIniciar">Iniciar</string>
+    <string name="btnVolver">Volver</string>
+    <string name="progreso">Progreso: %d/100</string>
+    <string name="fase">Fase: %d</string>
+    <string name="finJuego">Enhorabuena: %s, Llegaste a la fase %d</string>
+</resources>
